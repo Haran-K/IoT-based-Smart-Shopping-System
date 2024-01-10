@@ -15,10 +15,7 @@
 7. 2 LED
 8. 4-5 RFID TAGS
 
-## To clone this repo
 
-```git bash
- git clone git@github.com:Denver44/IOT-Smart-Trolley.git
 ```
 
 ## To run the client & server
